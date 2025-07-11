@@ -1,0 +1,29 @@
+    body {
+      background: linear-gradient(to right, #83a4d4, #b6fbff);
+      font-family: 'Segoe UI', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .weather-card {
+      background-color: #ffffffcc;
+      border-radius: 20px;
+      padding: 30px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+      transition: 0.3s;
+    }
+
+    .weather-card:hover {
+      transform: scale(1.02);
+    }
+
+    .weather-icon {
+      width: 100px;
+    }
+
+    .btn-custom {
+      border-radius: 50px;
+    }
+  
