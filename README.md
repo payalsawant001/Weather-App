@@ -17,5 +17,5 @@ Search any city and see real-time temperature, feels-like data, and weather cond
 • Error handling for invalid cities  
 
 This project is ideal for beginners learning API integration and responsive front-end development. More features like geolocation-based weather, history of searches, and dynamic backgrounds can be added in future iterations.
-📂 Check out the Live Demo here:
-👉 https://github.com/your-username/weather-app
+📂 Clone the Project here:
+👉 https://github.com/payalsawant001/Weather-App.git
