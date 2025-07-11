@@ -1,6 +1,6 @@
-🌦️ Built a fully functional and responsive Weather App using pure HTML, CSS (with Bootstrap 5), and JavaScript. The app allows users to search for any city and instantly fetches real-time weather data using the OpenWeatherMap API via Axios. It displays key weather details including city name, temperature in Celsius, 'feels like' temperature, and a descriptive condition (e.g., clear sky, rain), along with a relevant weather icon.
-
-The user interface is clean and modern, featuring a soft gradient background, rounded input fields, hover animations, and a neatly structured weather card. The entire application is front-end only and does not rely on any frameworks or back-end services, making it lightweight and easy to deploy on GitHub Pages or any static hosting service.
+🌤️ Real-Time Weather App – HTML | CSS | JavaScript
+Get the latest weather updates in a beautifully designed web app!
+Search any city and see real-time temperature, feels-like data, and weather condition icons — all fetched live using the OpenWeatherMap API and displayed with a responsive Bootstrap layout.
 
 🔧 Tech Stack:  
 • HTML5  
